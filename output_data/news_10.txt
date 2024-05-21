@@ -1,0 +1,66 @@
+Title: Pelosi's Taiwan Visit, JOLTS Survey, Nomad Hack - What's Moving Markets
+Date: 4 hours ago (Aug 02, 2022 06:45AM ET)
+
+
+By Geoffrey Smith 
+
+Investing.com -- Chinese markets tumble and risk assets struggle as Nancy Pelosi's visit to Taiwan raises the risk of a U.S.-China confrontation. The Labor Department releases its monthly Job Openings and Labor Turnover Survey for June. Australia raises its key rate by 50 basis points. Oil falls on Taiwan-related fears, but BP and two U.S. shale producers report stellar earnings. And there's been another hack of a crypto bridge protocol. Here's what you need to know in financial markets on Tuesday, 2nd August.
+
+1. Pelosi's Taiwan visit puts markets on edge
+
+Asian stock markets tumbled and risk assets, in general, suffered as House Speaker Nancy Pelosi headed to Taiwan, where she is due to land within a couple of hours.
+
+She's the most senior U.S. politician to visit Taiwan in nearly 30 years, and the development has elicited an angry response from Beijing, which sent fighter aircraft flying close to the island earlier Tuesday.
+
+Chinese stock markets fell over 2% on fears that Beijing’s threat that it “would not sit idly by” may lead to some kind of military confrontation. Reports suggest that a large part of China’s armed forces have been placed on high alert.
+
+2. JOLTS to show job market cooling?
+
+The Labor Department will publish its monthly Job Openings and Labor Turnover Survey for June at 10 AM ET (1400 GMT).
+
+While somewhat backward-looking, the survey should give insight into how quickly the job market may be cooling. The nationwide number of vacancies is expected to have fallen to 11 million in June, from 11.254 million in May. That would be the lowest number since November. Also of interest will be the ‘quit rate’, which is an indicator of the confidence people have in finding a new job.
+
+Since the survey’s cut-off date, there have been widespread reports of companies either freezing or slowing hiring.
+
+St. Louis Fed President James Bullard is due to speak, but well after the market close. Overnight, the global monetary tightening cycle continued with Australia raising its key rate by 50 basis points for a third month in a row.
+
+3. Stocks set to open lower on Pelosi; chipmaker earnings, M&A action eyed
+
+U.S. stock markets are set to open a little lower amid concern at the possible Chinese reaction to Pelosi’s visit.
+
+By 6:25 AM ET (1025 GMT), Dow Jones futures were down 180 points or 0.6%, while S&P 500 futures were down 0.8%, and Nasdaq 100 futures were down 1.0%.
+
+Chipmaker Advanced Micro Devices (NASDAQ:AMD) heads the day’s earnings roster, but only after the closing bell.  Caterpillar  (NYSE:CAT), a proxy for worldwide business investment, reports earlier. Already out with a significant beat is chemicals giant Dupont (NYSE:DD), while S&P Global (NYSE:SPGI), Marriott (NASDAQ:MAR),  Molson Coors  (NYSE:TAP) and Zimmer Biomet (NYSE:ZBH) are also up early.
+
+After the bell, AMD will be joined by PayPal (NASDAQ:PYPL), Starbucks (NASDAQ:SBUX), Gilead (NASDAQ:GILD) and Airbnb (NASDAQ:ABNB).
+
+In the meantime, there’s also M&A action in the air with reports about Toronto Dominion (TSX:TD) closing in on a deal for Cowen (NASDAQ:COWN).
+
+4. Nomad bridge exploit
+
+Nomad, a bridge protocol for allocating crypto tokens across different blockchains, suffered a major hack, losing nearly $200 million in a security exploit on Monday, according to various reports, citing security firm PeckShield.
+
+The system was drained of funds in a raid that lasted hours, mainly in small batches by numerous accounts.
+
+Attacks on bridges have become more frequent this year, with nearly $1 billion going missing so far, according to some estimates. The trend makes for more bad publicity in a sector that has suffered an embarrassing spate of revelations about poor risk management and questionable business models so far this year.
+
+5. Oil falls further below $100; API inventories due
+
+Crude oil prices fell along with other risk assets as markets priced in the chance of a confrontation between the U.S. and China. Even if Pelosi’s visit passes without violent incident, the episode risks upsetting progress toward any improvement in U.S.-China trade relations, which would underpin a slowing global economy.
+
+By 6:35 AM ET, U.S. crude futures were down 0.9% at $93.02 a barrel, while Brent was down 1.0% at $99.00 a barrel.
+
+Overnight, oil major BP (NYSE:BP) became the latest to report a massive windfall in earnings, announcing a big increase to its dividend and buyback program after second quarter results. That followed earnings beats by Diamondback (NASDAQ:FANG) and  Devon Energy  (NYSE:DVN) late on Monday.
+
+The American Petroleum Institute releases inventory data at 4:30 PM ET, as usual.
+
+We encourage you to use comments to engage with other users, share your perspective and ask questions of authors and each other. However, in order to maintain the high level of discourse we’ve all come to value and expect, please keep the following criteria in mind:  
+
+           Enrich the conversation, don’t trash it.
+
+          Stay focused and on track. Only post material that’s relevant to the topic being discussed. 
+
+          Be respectful. Even negative opinions can be framed positively and diplomatically. Avoid profanity, slander or personal attacks directed at an author or another user. Racism, sexism and other forms of discrimination will not be tolerated.
+
+Perpetrators of spam or abuse will be deleted from the site and prohibited from future registration at Investing.com’s discretion.
+
