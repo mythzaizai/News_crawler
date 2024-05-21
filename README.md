@@ -29,5 +29,9 @@ pip install -r requirements.txt
 ![image](https://github.com/mythzaizai/News_crawler/assets/15033420/66fb88da-6f29-40c0-8f93-0aef390e81c9)
 
 
+## Contact
 
+如果有任何問題或建議，請聯繫專案開發者:
+
+- **Email**: mythzaizai@gmail.com
 
